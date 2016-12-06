@@ -19,7 +19,7 @@ Feature: Ebay Searching
 
 		Examples:
 			|item														|value		|
-			|Liliana of the veil						|70.0			|
+			|Liliana the last hope					|40.0			|
 #			|Emrakul, the Promised End			|10.0			|
 #			|Ulamog, the Ceasless Hunger		|10.0			|
 #			|Kozilek, the Great Distortion	|5.0			|
